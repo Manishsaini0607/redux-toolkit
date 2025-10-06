@@ -23,7 +23,7 @@ Easily add, update, and delete your todos — all in a modern dark UI.
 
 ```bash
 # Clone this repo
-git clone https://github.com/yourusername/todo-app.git
+git clone https://github.com/Manishsaini0607/redux-toolkit
 
 # Go inside
 cd todo-app
