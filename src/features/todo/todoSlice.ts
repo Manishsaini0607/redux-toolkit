@@ -4,7 +4,7 @@ export type Todo = { id: string; text: string };
 type TodosState = { todos: Todo[] };
 
 const initialState: TodosState = {
-  todos: [{ id: nanoid(), text: 'Sample Todo' }],
+  todos: [],
 };
 
 const todoSlice = createSlice({
